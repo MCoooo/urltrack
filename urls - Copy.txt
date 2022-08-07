@@ -1,0 +1,12 @@
+https://google.com
+http://google.com
+https://youtube.com
+http://youtube.com
+https://yahoo.com
+http://yahoo.com
+https://bing.com
+http://bing.com
+https://duckduckgo.com
+http://duckduckgo.com
+https://faceboook.com
+https://martin.ccomber.com
